@@ -49,11 +49,11 @@ Feel free to help!
 
 ## Usage
 
-To use this plugin, add `flutter_audio_query` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/). For example:
+To use this plugin, add `flutter_music_query` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/). For example:
 
 ```yaml
 dependencies:
-  flutter_audio_query: "^0.3.5+6"
+  flutter_music_query: "^0.4.0"
 ```
 
 ## API
@@ -64,7 +64,7 @@ To get get audio files metadata info you just need `FlutterAudioQuery` object in
 
 ```dart
 ///you need include this file only.
-import 'package:flutter_audio_query/flutter_audio_query.dart';
+import 'package:flutter_music_query/flutter_music_query.dart';
 /// create a FlutterAudioQuery instance.
 final FlutterAudioQuery audioQuery = FlutterAudioQuery();
 ```
