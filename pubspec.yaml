@@ -1,7 +1,6 @@
 name: flutter_music_query
 description: Flutter plugin to query music from device.
 version: 0.4.0
-author: DuyNK (duydkny@gmail.com)
 homepage: https://github.com/bimemto/flutter_music_query
 
 environment:
